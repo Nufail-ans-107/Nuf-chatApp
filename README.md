@@ -2,6 +2,11 @@
 
 
 # Real-Time Chat Application
+This project is forked from [original repo link].
+Changes I made:
+- Added Kubernetes manifests
+- Improved authentication logic
+- Fixed deployment scripts
 
 
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
@@ -227,6 +232,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
