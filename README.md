@@ -11,6 +11,8 @@ Changes I made:
 
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
 
+https://streamable.com/n3l8ur  - This is my Project deployment screen recording (Minikube cluster)
+
 ## Table of Contents
 
 
@@ -187,34 +189,10 @@ You can now interact with the real-time chat app and start messaging!
 
 
 ### 🤝 Contributing
+I have added k8s files and deploy on minikube cluster....Below are the SS and screen recording of application
 
 
-We welcome contributions from DevOps & Developer of all skill levels! Here's how you can contribute:
 
-**Report bugs:** If you encounter any bugs or issues, please open an issue with detailed information.
-**Suggest features:** Have an idea for a new feature? Open an issue to discuss it with the community.
-**Submit pull requests:** If you have a fix or a feature you'd like to contribute, submit a pull request. Ensure your changes pass any linting or tests, if applicable.
-
-### 🌐 Join the Community
-
-We invite you to join our community of developers and contributors. Let's work together to build an amazing real-time chat application!
-
-* **Star this repository** to show your support
-* **Fork this repository** to contribute to the project
-* **Open an issue** to report bugs or suggest features
-* **Submit a pull request** to contribute code changes
-
-## 🔮 Future Plans
-
-
-This project is evolving, and here are a few exciting things on the horizon:
-
-* [ ] **CI/CD Pipelines:** Implement Continuous Integration and Continuous Deployment pipelines to automate testing and deployment.
-* [ ] **Kubernetes (K8s):** Add Kubernetes manifests for container orchestration to deploy the app on cloud platforms like AWS, GCP, or Azure.
-* [ ] **Feature Expansion:** Add more features like group chats, media sharing, and user status updates.
-* **Stay tuned for updates as we continue to improve and expand this project!**
-
----
 
 ## 📚 Project Snapshots:
 
@@ -226,12 +204,15 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 ![Login](/frontend/public/login.png)
 
+https://streamable.com/n3l8ur
+
 
 
 ## 📜 License
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
