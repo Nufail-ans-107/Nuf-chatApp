@@ -12,6 +12,9 @@ Changes I made:
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
 
 https://streamable.com/n3l8ur  - This is my Project deployment screen recording (Minikube cluster)
+Architecture---
+<img width="1529" height="413" alt="diagram-export-14-09-2025-01_27_57" src="https://github.com/user-attachments/assets/614c32af-1e00-47cf-81cc-48617718de66" />
+
 
 ## Table of Contents
 
@@ -212,6 +215,7 @@ https://streamable.com/n3l8ur
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
